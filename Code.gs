@@ -58,8 +58,8 @@ function createWordEntry(word, num) {
 function getJSON(word) {
   var data = {
     "Accept": "application/json",
-    "app_id": "631930eb",
-    "app_key": "837087a1c825b937864d29449337645a"
+    "app_id": "*******",
+    "app_key": "*******"
   }
   var options = {
     'method': 'GET',
